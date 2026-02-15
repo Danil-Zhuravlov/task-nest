@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Temporary script to seed tasks.db with sample hierarchical tasks.
 Inserts: 1 parent, 2 children, 1 grandchild.
 """
